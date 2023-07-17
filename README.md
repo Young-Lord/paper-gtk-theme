@@ -1,7 +1,7 @@
 Paper Theme
 ===========
 
-#### Development of the Paper GTK theme has ended
+### I don't know GTK, pr welcomed.
 
 Paper is a modern desktop theme suite. Its design is mostly flat with a minimal use of shadows for depth.
 
